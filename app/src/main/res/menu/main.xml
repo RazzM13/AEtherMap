@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_add_marker"
+        android:icon="@android:drawable/btn_plus"
+        android:title="Add marker"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_remove_marker"
+        android:icon="@android:drawable/btn_minus"
+        android:title="Remove marker"
+        app:showAsAction="never"/>
+
+
+</menu>
